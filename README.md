@@ -1,0 +1,1 @@
+This project contains an interactive homepage for a social networking WEBSITE.
